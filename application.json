@@ -1,0 +1,11 @@
+[
+  {
+    "settings": [ "master" ],
+    "specs": {
+      "getinfo": {
+        "type": "getInfo"
+      }
+    }
+  }
+]
+
